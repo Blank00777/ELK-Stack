@@ -48,9 +48,6 @@ Deployed and configured a production-ready SIEM solution for real-time security 
 - DevSecOps practices
 
 ## 🏆 Project Highlights
-![Successful Log Flow](images/discover.png)
-*Successfully able to send logs to Kibana*
-
 ![Security Dashboard](images/dashboard.png)
 *Real-time security monitoring dashboard*
 
