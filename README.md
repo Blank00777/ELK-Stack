@@ -47,7 +47,7 @@ Deployed and configured a production-ready SIEM solution for real-time security 
 - Cloud security architecture
 - DevSecOps practices
 
-## 🏆 Project Highlights
+## Project Highlights
 ![Security Dashboard](images/dashboard.png)
 *Real-time security monitoring dashboard*
 
